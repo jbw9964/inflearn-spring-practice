@@ -1,3 +1,4 @@
 [submodule "lecture-materials"]
 	path = lecture-materials
 	url = https://github.com/jbw9964/lecture-materials.git
+	branch = submodule/main
